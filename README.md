@@ -94,3 +94,5 @@ boto3
 django-ckeditor
 django-storages
 djangorestframework
+
+added a superuser for the project login: admin pwd: admin
